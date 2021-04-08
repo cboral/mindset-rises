@@ -1,0 +1,53 @@
+body{
+
+background-color: gray;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+padding-left: 20px;
+padding-right: 20px;
+
+}
+
+table td{
+  padding: 20px;
+  border: 1px solid gold;
+
+
+
+}
+
+.center-horizontal{
+display:flex;
+justify-content: center;
+
+
+
+
+}
+
+h1{
+text-align: center;
+
+
+}
+
+.title-image{
+  max-height: 500px;
+  
+}
+
+.title-image-container {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+}
+
+.title-image-container .title-image{
+  margin-top: 10px;
+}
+
+.title-image-container .title-image:first-child{
+  margin-top: 0px;
+}
+
+

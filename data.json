@@ -1,0 +1,13 @@
+[
+  {
+    "name":"Max Mustemann",
+    "password":"Berlin", 
+    "loginCount":0, 
+    "failedLoginCount":2, 
+    "blockUntil":"2021-04-04T12:09:40",
+    "homework": [
+      {"title": "watchvideo","maximaltrycount":5,"trycount":0,"dueUtil": "2021-04-04T12:09:40"}
+    ]
+  }
+  
+]
